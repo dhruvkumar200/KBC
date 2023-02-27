@@ -1,0 +1,15 @@
+D:\STUDY MATERIAL\.NET Development\practicals\KBC\obj\Debug\net7.0\KBC.csproj.AssemblyReference.cache
+D:\STUDY MATERIAL\.NET Development\practicals\KBC\obj\Debug\net7.0\KBC.GeneratedMSBuildEditorConfig.editorconfig
+D:\STUDY MATERIAL\.NET Development\practicals\KBC\obj\Debug\net7.0\KBC.AssemblyInfoInputs.cache
+D:\STUDY MATERIAL\.NET Development\practicals\KBC\obj\Debug\net7.0\KBC.AssemblyInfo.cs
+D:\STUDY MATERIAL\.NET Development\practicals\KBC\obj\Debug\net7.0\KBC.csproj.CoreCompileInputs.cache
+D:\STUDY MATERIAL\.NET Development\practicals\KBC\bin\Debug\net7.0\KBC.exe
+D:\STUDY MATERIAL\.NET Development\practicals\KBC\bin\Debug\net7.0\KBC.deps.json
+D:\STUDY MATERIAL\.NET Development\practicals\KBC\bin\Debug\net7.0\KBC.runtimeconfig.json
+D:\STUDY MATERIAL\.NET Development\practicals\KBC\bin\Debug\net7.0\KBC.dll
+D:\STUDY MATERIAL\.NET Development\practicals\KBC\bin\Debug\net7.0\KBC.pdb
+D:\STUDY MATERIAL\.NET Development\practicals\KBC\obj\Debug\net7.0\KBC.dll
+D:\STUDY MATERIAL\.NET Development\practicals\KBC\obj\Debug\net7.0\refint\KBC.dll
+D:\STUDY MATERIAL\.NET Development\practicals\KBC\obj\Debug\net7.0\KBC.pdb
+D:\STUDY MATERIAL\.NET Development\practicals\KBC\obj\Debug\net7.0\KBC.genruntimeconfig.cache
+D:\STUDY MATERIAL\.NET Development\practicals\KBC\obj\Debug\net7.0\ref\KBC.dll
